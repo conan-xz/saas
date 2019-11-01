@@ -1,0 +1,14 @@
+{
+  "creatTenant": {
+    "code":200,
+    "message":"success",
+    "userId":"888888888"
+  },
+  "deleteTenant": {
+    "code":200,
+    "message":"success"
+  },
+  "login": {
+    "name": "success"
+  }
+}
